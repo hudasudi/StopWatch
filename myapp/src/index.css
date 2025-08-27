@@ -42,10 +42,10 @@ body{
 .start-btn:hover{
   background-color: rgb(70, 6, 95);
 }
-.stop-btn{
+.pause-btn{
   background-color: rgb(153, 59, 146);
 }
-.stop-btn:hover{
+.pause-btn:hover{
   background-color: rgb(107, 43, 102);
 }
 .reset-btn{
