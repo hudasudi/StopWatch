@@ -6,11 +6,13 @@ A simple Stopwatch built with React to practice state management, hooks, and ref
 
 ## 🛠 Features
 
-- ▶️ Start, ⏸️ Stop, and 🔄 Reset functionality
+- ▶️ Start, ⏸️ Pause, and 🔄 Reset functionality
 
 - 🕒 Displays hours, minutes, seconds, and milliseconds
 
 - ⚡ Accurate timing using `useState`, `useEffect`, and `useRef`
+  
+- 📱 Fully responsive design — works on mobile, tablet, and desktop
 
 ---
 
